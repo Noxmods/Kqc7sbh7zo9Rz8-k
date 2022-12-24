@@ -10,10 +10,10 @@ iRay  | Programming
 
 
 
-local Release = "Beta 7R"
+local Release = "Beta 1"
 local NotificationDuration = 6.5
-local RayfieldFolder = "Rayfield"
-local ConfigurationFolder = RayfieldFolder.."/Configurations"
+local RayfieldFolder = "nex"
+local ConfigurationFolder = nex.."/Configurations"
 local ConfigurationExtension = ".rfld"
 
 
